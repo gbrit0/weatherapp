@@ -1,6 +1,5 @@
 # App de Clima - Tutorial JAVA para iniciantes
-Projeto construído a partir do tutorial do canal TapTap no 
-[youtube](https://www.youtube.com/watch?v=8ZcEYv2ezWc&ab_channel=TapTap).
+Projeto construído a partir do [tutorial do canal](https://www.youtube.com/watch?v=8ZcEYv2ezWc&ab_channel=TapTap) TapTap no youtube.
 
 Consiste de 3 classes JAVA: WeatherAppGui, a interface gráfica; WeatherAPP,
 a lógica do backend que faz as requisições às APIs e as envia ao frontend,
